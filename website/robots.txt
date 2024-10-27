@@ -1,0 +1,4 @@
+User-Agent: *
+Disallow: /
+
+Sitemap: https://yonsunastudy.static.jp/sitemap.xml
